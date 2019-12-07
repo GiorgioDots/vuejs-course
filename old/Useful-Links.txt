@@ -1,0 +1,89 @@
+Module Resources & Useful Links
+
+####
+
+JSFiddle Links:
+
+Getting Started: https://jsfiddle.net/smax/pcjtcmdm/
+
+Template Syntax: https://jsfiddle.net/smax/bkk97b7g/
+
+Events: https://jsfiddle.net/smax/7zdak05g/
+
+Two-Way-Binding: https://jsfiddle.net/smax/ut0tsbcu/
+
+Computed Properties & Watch: https://jsfiddle.net/smax/yLjqxmw0/
+
+Dynamic Classes: https://jsfiddle.net/smax/gowg40ym/
+
+Dynamic Styles: https://jsfiddle.net/smax/3rvdLq5y/
+
+Conditionals (v-if and v-show): https://jsfiddle.net/smax/hoc719j5/
+
+Lists: https://jsfiddle.net/smax/o7uy2g0u/
+
+The Vue Instance Code: https://jsfiddle.net/smax/9a2k6cja/2/
+
+The VueJS Instance Lifecycle: https://jsfiddle.net/smax/jcgw7ak8/
+
+####
+
+Further Links:
+
+Official Docs - Getting Started: http://vuejs.org/guide/
+
+Official Docs - Template Syntax: http://vuejs.org/guide/syntax.html
+
+Official Docs - Events: http://vuejs.org/guide/events.html
+
+Official Docs - Computed Properties & Watchers: http://vuejs.org/guide/computed.html
+
+Official Docs - Class & Style Binding: http://vuejs.org/guide/class-and-style.html
+
+Official Docs - The VueJS instance: http://vuejs.org/guide/instance.html
+
+Official Docs - v-else-if: https://vuejs.org/v2/guide/conditional.html#v-else-if.
+
+Official Docs - Conditionals: http://vuejs.org/guide/conditional.html
+
+Official Docs - Lists: http://vuejs.org/guide/list.html
+
+Official Docs - Components: http://vuejs.org/guide/components.html  -  https://vuejs.org/v2/guide/components-registration.html
+
+Official Docs - Props: http://vuejs.org/guide/components.html#Props
+
+Official Docs - Custom Events: http://vuejs.org/guide/components.html#Custom-Events
+
+Official Docs - Non-Parent-Child Communication: http://vuejs.org/guide/components.html#Non-Parent-Child-Communication
+
+Official Docs - Slots: http://vuejs.org/guide/components.html#Content-Distribution-with-Slots
+
+Official Docs - Dynamic Components: http://vuejs.org/guide/components.html#Dynamic-Components
+
+Official Docs - Misc: http://vuejs.org/guide/components.html#Misc
+
+Official Docs - Forms: http://vuejs.org/guide/forms.html
+
+Official Docs - Custom Directives: http://vuejs.org/guide/custom-directive.html
+
+Official Docs - Filters: https://vuejs.org/v2/guide/filters.html
+
+Official Docs - Mixins: http://vuejs.org/guide/mixins.html
+
+vue-resource on Github: https://github.com/yyx990803/vue-resource
+
+Some Code Recipes for vue-resource: https://github.com/yyx990803/vue-resource/blob/master/docs/recipes.md
+
+Template URLs: https://medialize.github.io/URI.js/uri-template.html
+
+Requests and Responses (incl. Different File Formats): https://github.com/yyx990803/vue-resource/blob/master/docs/http.md
+
+vue-router Github Page: https://github.com/vuejs/vue-router
+
+vue-router Documentation:https://router.vuejs.org/en/
+
+Vuex Github Page: https://github.com/vuejs/vuex
+
+Vuex Documenation: https://vuex.vuejs.org/en/
+
+Vue Developer Tools: https://github.com/vuejs/vue-devtools

@@ -1,0 +1,3 @@
+The "token" we're storing is not just a string. It's basically an encoded JavaScript object and therefore also called "JSON Web Token". 
+
+Learn more about the token and its payload here: https://jwt.io/
